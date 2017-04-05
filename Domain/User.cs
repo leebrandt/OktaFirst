@@ -2,7 +2,7 @@ namespace OktaFirst.Domain
 {
   public class User
   {
-    public string Id { get; set; }
+        public string Id { get; set; }
     public string Status { get; set; }
     public Profile Profile { get; set; }
 
